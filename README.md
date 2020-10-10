@@ -1,2 +1,2 @@
-# DataMart
-This is an end to end project on creating a data-mart
+# data-mart
+This is a repo for the end to end data pipeline used for a data-mart
